@@ -1,22 +1,32 @@
 # fake-sms
-![fai](https://user-images.githubusercontent.com/82051128/120921960-dd6f5600-c6df-11eb-99bf-b5c544172146.png)
+![fake](https://user-images.githubusercontent.com/82051128/189500861-15f5234f-0884-4b3b-a823-c580bfa1573d.png)
+
 
 # About:
      A Simple Script to send SMS anonymously.
+     
+# Note:-
+     If ur message is not sent then use some valid vpn like nordvpn etc and make sure you are connected to some europe networks.
 
 # Installation:
      1. For Linux Users:
         a) git clone https://github.com/machine1337/fake-sms
-        b) cd fake-sms then chmod +x run.sh
+        b) cd fake-sms
+        c) pip install requirements.txt
+        d) python3 fake-sms.py
         
-     2. For Termux Users:
-        a) pkg update && pkg upgrade
-        b) pkg install git
-        c) git clone https://github.com/machine1337/fake-sms
-        d) cd fake-sms then chmod +x run.sh
+     2. For Windows Users:
+        a) Download python3 on windows and install it
+        b) git clone https://github.com/machine1337/fake-sms
+        c) pip install requirements.txt
+        d) python fake-sms.py
+     
         
 # Usage:
-     Just Type:  bash run.sh
+     *. For Windows:
+       1. python fake-sms.py
+     *. For Linux:
+       1. python3 fake-sms.py
 
 # Features:
      1. SMS ANONYMOUSLY
@@ -34,7 +44,7 @@
  # This Tool Tested On:
      1. Parrot OS
      2. Kali Linux
-     3. android ( Termux )
+     3. Windows
      
 # video:
 https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
@@ -42,7 +52,4 @@ https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
 # Credit:
      If You Like This Tool then Kindly Give us a star. Thanks.....
      
-# Author:
- a. https://www.facebook.com/pakhack01
- 
- b. https://instagram.com/invisibleclay100
+
