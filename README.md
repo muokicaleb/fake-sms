@@ -7,6 +7,10 @@
      
 # Note:-
      If ur message is not sent then use some valid vpn like nordvpn etc and make sure you are connected to some europe networks.
+# Requirements:
+      1. Make sure python3 is installed in windows Or in Linux
+      2. pip install termcolor
+      3. pip install requests
 
 # Installation:
      1. For Linux Users:
