@@ -3,7 +3,7 @@
 
 
 # About:
-     A Simple Script to send SMS anonymously.
+     A Simple Script to send SMS anonymously. Only Work On LInux Based OS
      
 # Note:-
      If ur message is not sent then use some valid vpn like nordvpn etc and make sure you are connected to some europe networks.
@@ -27,8 +27,6 @@
      
         
 # Usage:
-     *. For Windows:
-       1. python fake-sms.py
      *. For Linux:
        1. python3 fake-sms.py
 
