@@ -4,8 +4,7 @@
 
 # About:
      A Simple Script to send SMS anonymously.
-# Tested ON:
-     LInux Based OS
+
      
 # Note:-
      If ur message is not sent then use some valid vpn like nordvpn etc and make sure you are connected to some europe networks.
@@ -20,18 +19,20 @@
         a) git clone https://github.com/machine1337/fake-sms
         b) cd fake-sms
         c) pip install requirements.txt
-        d) python3 fake-sms.py
+        d) python3 fakesms.py
         
      2. For Windows Users:
         a) Download python3 on windows and install it
         b) git clone https://github.com/machine1337/fake-sms
         c) pip install requirements.txt
-        d) python fake-sms.py
+        d) python fakesms.py
      
         
 # Usage:
      *. For Linux:
-       1. python3 fake-sms.py
+       1. python3 fakesms.py
+     *. For Windows:
+      1. python fakesms.py
 
 # Features:
      1. SMS ANONYMOUSLY
